@@ -14,6 +14,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![Unix](https://img.shields.io/badge/Unix-000000?logo=unix&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![Kitty](https://img.shields.io/badge/Kitty-FFD700?logo=kitty&logoColor=black&style=for-the-badge)
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -28,6 +29,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge)
 
 ---
 
