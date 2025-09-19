@@ -11,9 +11,6 @@
 ## 🛠️ Byvagner
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Unix](https://img.shields.io/badge/Unix-000000?logo=unix&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Kitty](https://img.shields.io/badge/Kitty-FFD700?logo=kitty&logoColor=black&style=for-the-badge)
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
